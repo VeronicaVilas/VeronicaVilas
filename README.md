@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Verônica+Vilas;Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-#### Recentemente, estou em processo de transição de carreira para desenvolvimento Full Stack. Sou da Bahia e estou desenvolvendo minhas habilidades para me tornar uma DEV com o curso DEVinHouse ministrado pelo SENAI. Gosto muito de lógica de programação e a cada passo de aprimoramento me apaixono mais pela área, gosto de desenvolver minhas habilidades destrinchando código e inspecionado sites em gerais, além de assistir e acompanhar o máximo de conteúdo disponível na web.
+#### Recentemente, estou em processo de transição de carreira para desenvolvimento Full Stack. Sou da Bahia e estou desenvolvendo minhas habilidades para me tornar uma DEV com o curso DEVinHouse ministrado pelo SENAI. Gosto muito de lógica de programação e a cada passo de aprimoramento me apaixono mais pela área, gosto de desenvolver realizando cursos onlines, lendo bibliotecas oficiais da linguagem e praticando, além de inspecionar sites para entender suas funcionalidades.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VeronicaVilas&show_icons=true&count_private=true&hide_border=true&title_color=BA55D3&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Verônica Vilas github stats" /> 
