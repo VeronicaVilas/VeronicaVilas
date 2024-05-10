@@ -2,7 +2,7 @@
   <h1>Olá, me chamo Verônica!</h1>
 </div>
 <div>
-  <img align="right" alt="Imagem de uma garota sentada com notebook em sua frente - imagem criada por mim no leonardo.ai" height="220" src="https://github.com/VeronicaVilas/VeronicaVilas/assets/135287830/f6fa92d5-cf2e-45d8-a251-2f8feff53e95">
+  <img align="right" alt="Imagem de uma garota sentada com notebook em sua frente - imagem criada por mim no leonardo.ai" height="230" src="https://github.com/VeronicaVilas/VeronicaVilas/assets/135287830/f6fa92d5-cf2e-45d8-a251-2f8feff53e95">
 <p>Tenho 27 anos moro em Salvador, BA, e sou graduada em engenharia química. Recentemente, estou em processo de transição de carreira para me tornar uma desenvolvedora full stack, universo, a qual, cada dia me encanta mais e mais, alimentando minha paixão pelo desenvolvimento de software.</p>
 <p>Com uma sólida formação, adquiri experiência e habilidades analíticas que me permitiram colaborar diretamente com desenvolvedores, especialmente em contextos que exigem inovação e resolução de problemas.</p>
 <p>Minha formação inclui uma qualificação em Desenvolvimento Backend em andamento pelo Santander, através do Bootcamp Santander 2024 - Backend com Java, outra em Desenvolvimento Full Stack em andamento pelo Oracle Next Education (ONE) em parceria com a ALURA, e uma qualificação em Desenvolvimento Full Stack já concluída pelo SENAI, através do programa DEVinHouse.</p>
