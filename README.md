@@ -24,8 +24,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=316192">
 <img src="https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=E44C30">
 
-### Conect-se comigo
-[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=CA2DE8)](https://www.linkedin.com/in/veronica-vilas/)
+### Conect-se comigo ou acesse o meu portólio
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=CA2DE8)](https://www.linkedin.com/in/veronica-vilas/) [![Portólio](https://img.shields.io/badge/Portfolio-CA2DE8?style=for-the-badge&logo=portfolio&logoColor=000)](https://portfolioveronicavilas.vercel.app/)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VeronicaVilas&show_icons=true&count_private=true&hide_border=true&title_color=CA2DE8&icon_color=CA2DE8&text_color=C9D1D9&bg_color=0D1117" alt="Verônica Vilas github stats" /> 
