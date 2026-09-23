@@ -11,15 +11,16 @@
 
 </div>
 
-Desenvolvedora Full Stack com cerca de **2 anos de experiência** no desenvolvimento de soluções web, atuando desde a concepção até a entrega de aplicações estruturadas, performáticas e alinhadas às necessidades do negócio.
+Desenvolvedora Full Stack com cerca de **2 anos de experiência** no desenvolvimento de soluções web, atuando desde a concepção até a entrega de aplicações estruturadas, performáticas e alinhadas às necessidades do negócio. Para mim, a tecnologia atinge seu potencial máximo quando resolve problemas reais de usuários e ajuda em seu dia a dia.
 
-Há 1,5 ano integro a Aastera, empresa de consultoria, onde atuo em projetos com diferentes escopos, tecnologias e contextos organizacionais. Essa vivência consolidou minha capacidade de adaptação rápida, organização sob pressão e atuação eficiente em ambientes com múltiplas demandas e prazos bem definidos — sempre prezando por código limpo, estrutura consistente e boas práticas de desenvolvimento.
+Fiquei por 1,5 ano a Aastera, empresa de consultoria, onde atuo em projetos com diferentes escopos, tecnologias e contextos organizacionais. Essa vivência consolidou minha capacidade de adaptação rápida, organização sob pressão e atuação eficiente em ambientes com múltiplas demandas e prazos bem definidos, sempre prezando por código limpo, estrutura consistente e boas práticas de desenvolvimento.
 
 Também atuo como **Desenvolvedora Frontend e Designer** na Participe.ai, startup originada no Programa de Residência em Software da CEPEDI, contribuindo diretamente na construção da interface, experiência do usuário e identidade visual do produto.
 
 Tenho alta afinidade com **PHP, Laravel, CodeIgniter e Angular** e uma enorme paixão por unir desenvolvimento e design de interfaces. Estou sempre em busca de novos desafios e aprendizados.
 
 ### 🎓 Formação
+- Pós-graduação em Ciência de Dados e Big Data Analytics
 - Residência em Software: Bahia + Tecnologia + Empreendedorismo (CEPEDI)
 - Desenvolvimento Full Stack (DevinHouse – SENAI)
 - Bacharelado em Engenharia Química (UCSAL)
